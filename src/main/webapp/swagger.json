@@ -1,0 +1,15 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "BookStore APIs exposed from a Java EE back-end to\n\t\t\t\t\t\t\t\t\tan Angular front-end",
+    "version" : "1.0.0",
+    "title" : "BookStore APIs",
+    "contact" : {
+      "name" : "Omar Moalla",
+      "email" : "omar.moalla@esprit.tn"
+    }
+  },
+  "host" : "localhost:8080",
+  "basePath" : "/bookstore-back/api",
+  "schemes" : [ "http", "https" ]
+}
